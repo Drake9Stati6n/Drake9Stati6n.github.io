@@ -2,11 +2,6 @@
 body {
     font-family: Arial;
     display: flex;
-    justify-content:flex-end;
-    align-items:flex-end;
-    min-height: 100vh;
     justify-content:flex;
     padding: 20px;
-    background-image: url("https://cdn.pixabay.com/photo/2022/03/12/07/29/dragon-7063555_640.png");
-    background-color: #cccccc;
 }
